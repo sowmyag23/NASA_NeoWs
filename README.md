@@ -148,7 +148,3 @@ Logs are stored in the `logs/` directory. Key activities, such as API requests, 
 - Implement a retry mechanism for database operations.
 - Add more advanced visualizations in Power BI.
 
-
-
-## Contact
-For questions or feedback, please contact [dopathisharathreddy1122@example.com].
